@@ -1,2 +1,3 @@
-# qa134925-api
-ScrumDev AI backend (qa134925-api)
+# QA134925 - Backend
+
+FastAPI desplegado en Render.
